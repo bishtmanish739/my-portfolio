@@ -1,0 +1,20 @@
+.project-card {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-card h3 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .project-card p {
+    color: #666;
+  }
+  
+  .project-card .btn {
+    margin-top: 10px;
+  }
+  
